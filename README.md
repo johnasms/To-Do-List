@@ -9,18 +9,18 @@ Projeto de uma lista de tarefas desenvolvido para praticar meus conhecimentos em
 -   Adiciona novas tarefas
 -   Impede tarefas vazias
 -   Impede tarefas repetidas
--   Marca tarefas como concluido
+-   Marca tarefas como concluídas
 -   Remove tarefas
 -   Salva as tarefas no LocalStorage
--   Mantem o estado da tarefa conclúidas após atualizar a página
+-   Mantém o estado da tarefa concluídas após atualizar a página
 
 ## Tecnologias utilizadas
 
-- HTml
+- HTML
 - CSS
 - JavaScript
 - LocalStorage
 
 ## Objetivo
 
-Este projeto foi desenvolvido com o objetivo de praticar manipulação DOM, eventos, arrays, objetos, JSON e armazenamento de dados no navegador.
+Este projeto foi desenvolvido com o objetivo de praticar manipulação do DOM, eventos, arrays, objetos, JSON e armazenamento de dados no navegador.
